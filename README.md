@@ -10,8 +10,7 @@ This Java program simulates an Automated Teller Machine (ATM) where users can pe
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Introduction
 
 The **Automated Teller Machine (ATM)** program is a simple console-based application written in Java. It allows users to interact with the ATM and perform common banking operations:
@@ -58,10 +57,6 @@ To run this ATM simulation program, you need:
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 Feel free to explore and use this simple ATM simulation program for educational purposes or as a starting point for more complex banking applications.
